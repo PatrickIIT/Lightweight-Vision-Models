@@ -1,6 +1,5 @@
 # Lightweight-Vision-Models
 Knowledge Distillation, Pruning, and Quantization on Lightweight Vision Models
-Below is a polished and concise `README.md` tailored for a GitHub repository, based on the provided experiments. It includes clear instructions, a structured overview, and GitHub-friendly formatting, while summarizing the key details from the experiments.
 
 ---
 
